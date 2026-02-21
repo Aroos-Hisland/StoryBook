@@ -4,21 +4,21 @@
     "title": "How to Listen Better",
     "isFree": true,
     "version": 1,
-    "file": "stories/en_story1.enc"
+    "file": "stories/en/en_story1.enc"
   },
   {
     "id": "en_story2",
     "title": "Handling Arguments Calmly",
     "isFree": true,
     "version": 1,
-    "file": "stories/en_story2.enc"
+    "file": "stories/en/en_story2.enc"
   },
   {
     "id": "en_story3",
     "title": "Rebuilding Trust",
     "isFree": false,
     "version": 1,
-    "file": "stories/en_story3.enc"
+    "file": "stories/en/en_story3.enc"
   }
 ]
 

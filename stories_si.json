@@ -4,21 +4,21 @@
     "title": "හොඳින් ඇහුම්කන් දීම",
     "isFree": true,
     "version": 1,
-    "file": "stories/si_story1.enc"
+    "file": "stories/si/si_story1.enc"
   },
   {
     "id": "si_story2",
     "title": "තර්ක හොඳින් කළ හැක්කේ",
     "isFree": true,
     "version": 1,
-    "file": "stories/si_story2.enc"
+    "file": "stories/si/si_story2.enc"
   },
   {
     "id": "si_story3",
     "title": "විශ්වාසය නැවත ගොඩනැගීම",
     "isFree": false,
     "version": 1,
-    "file": "stories/si_story3.enc"
+    "file": "stories/si/si_story3.enc"
   }
 ]
 
