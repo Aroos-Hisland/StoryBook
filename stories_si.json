@@ -1,0 +1,18 @@
+[
+  {
+    "id": "si_story1",
+    "title": "හොඳින් ඇහුම්කන් දීම",
+    "isFree": true
+  },
+  {
+    "id": "si_story2",
+    "title": "තර්ක හොඳින් කළ හැක්කේ",
+    "isFree": true
+  },
+  {
+    "id": "si_story3",
+    "title": "විශ්වාසය නැවත ගොඩනැගීම",
+    "isFree": false
+  }
+]
+

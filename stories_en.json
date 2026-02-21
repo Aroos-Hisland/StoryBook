@@ -1,0 +1,18 @@
+[
+  {
+    "id": "en_story1",
+    "title": "How to Listen Better",
+    "isFree": true
+  },
+  {
+    "id": "en_story2",
+    "title": "Handling Arguments Calmly",
+    "isFree": true
+  },
+  {
+    "id": "en_story3",
+    "title": "Rebuilding Trust",
+    "isFree": false
+  }
+]
+
