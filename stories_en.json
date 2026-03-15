@@ -1,21 +1,21 @@
 [
   {
     "id": "en_story1",
-    "title": "How to Listen Better",
+    "title": "1. The Fox and the Grapevine",
     "isFree": true,
     "version": 1,
     "file": "stories/en/en_story1.enc"
   },
   {
     "id": "en_story2",
-    "title": "Handling Arguments Calmly",
+    "title": "2. ",
     "isFree": true,
     "version": 1,
     "file": "stories/en/en_story2.enc"
   },
   {
     "id": "en_story3",
-    "title": "Rebuilding Trust",
+    "title": "3. ",
     "isFree": false,
     "version": 1,
     "file": "stories/en/en_story3.enc"

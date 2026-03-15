@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ta_story1",
+    "title": "1. நரியும் திராட்சைக் கொடியும்",
+    "isFree": true,
+    "version": 1,
+    "file": "stories/ta/ta_story1.enc"
+  },
+  {
+    "id": "ta_story2",
+    "title": "2. ",
+    "isFree": true,
+    "version": 1,
+    "file": "stories/ta/ta_story2.enc"
+  },
+  {
+    "id": "ta_story3",
+    "title": "3. ",
+    "isFree": false,
+    "version": 1,
+    "file": "stories/ta/ta_story3.enc"
+  }
+]

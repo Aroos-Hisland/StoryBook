@@ -1,21 +1,21 @@
 [
   {
     "id": "si_story1",
-    "title": "හොඳින් ඇහුම්කන් දීම",
+    "title": "1. නරියා සහ මිදි වැල",
     "isFree": true,
     "version": 1,
     "file": "stories/si/si_story1.enc"
   },
   {
     "id": "si_story2",
-    "title": "තර්ක හොඳින් කළ හැක්කේ",
+    "title": "2. ",
     "isFree": true,
     "version": 1,
     "file": "stories/si/si_story2.enc"
   },
   {
     "id": "si_story3",
-    "title": "විශ්වාසය නැවත ගොඩනැගීම",
+    "title": "3. ",
     "isFree": false,
     "version": 1,
     "file": "stories/si/si_story3.enc"
