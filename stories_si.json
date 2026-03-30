@@ -26,6 +26,13 @@
     "isFree": false,
     "version": 1,
     "file": "stories/si/si_story3.enc"
+  },
+  {
+    "id": "si_story5",
+    "title": "5. ",
+    "isFree": false,
+    "version": 1,
+    "file": "stories/si/si_story3.enc"
   }
 ]
 
