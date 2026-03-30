@@ -26,6 +26,13 @@
     "isFree": false,
     "version": 1,
     "file": "stories/si/si_story3.enc"
+  },
+  {
+    "id": "si_story4",
+    "title": "5.test ok",
+    "isFree": false,
+    "version": 1,
+    "file": "stories/si/si_story3.enc"
   }
 ]
 
