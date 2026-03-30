@@ -33,6 +33,14 @@
     "isFree": false,
     "version": 1,
     "file": "stories/si/si_story3.enc"
+  },
+  {
+    "id": "si_story6",
+    "title": "6.test ok",
+    "isFree": false,
+    "version": 1,
+    "file": "stories/si/si_story3.enc"
   }
+  
 ]
 
