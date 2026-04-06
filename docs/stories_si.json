@@ -8,38 +8,31 @@
   },
   {
     "id": "si_story2",
-    "title": "2. ",
+    "title": "2. තණකොළපෙත්තා සහ කුහුඹුවෝ",
     "isFree": true,
     "version": 1,
     "file": "stories/si/si_story2.enc"
   },
   {
     "id": "si_story3",
-    "title": "3. ",
+    "title": "3. කෙවිලිය සහ ඇගේ පැටවු",
     "isFree": false,
     "version": 1,
     "file": "stories/si/si_story3.enc"
   },
   {
     "id": "si_story4",
-    "title": "4. ",
+    "title": "4. හාවා සහ ඉබ්බා",
     "isFree": false,
     "version": 1,
-    "file": "stories/si/si_story3.enc"
+    "file": "stories/si/si_story4.enc"
   },
   {
-    "id": "si_story4",
-    "title": "5.test ok",
+    "id": "si_story5",
+    "title": "5.ගෙම්බෝ සහ ඔවුන්ගේ රජවරු",
     "isFree": false,
     "version": 1,
-    "file": "stories/si/si_story3.enc"
-  },
-  {
-    "id": "si_story8",
-    "title": "8.test ok",
-    "isFree": false,
-    "version": 1,
-    "file": "stories/si/si_story3.enc"
+    "file": "stories/si/si_story5.enc"
   }
 ]
 

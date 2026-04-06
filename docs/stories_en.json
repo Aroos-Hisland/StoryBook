@@ -8,17 +8,31 @@
   },
   {
     "id": "en_story2",
-    "title": "2. ",
+    "title": "2. The Grasshopper and the Ants",
     "isFree": true,
     "version": 1,
     "file": "stories/en/en_story2.enc"
   },
   {
     "id": "en_story3",
-    "title": "3. ",
+    "title": "3. The Lark and Her Young Ones",
     "isFree": false,
     "version": 1,
     "file": "stories/en/en_story3.enc"
+  },
+  {
+    "id": "en_story4",
+    "title": "4. The Hare and the Tortoise",
+    "isFree": false,
+    "version": 1,
+    "file": "stories/en/en_story4.enc"
+  },
+  {
+    "id": "en_story5",
+    "title": "5. The Frogs and Their Kings",
+    "isFree": false,
+    "version": 1,
+    "file": "stories/en/en_story5.enc"
   }
 ]
 

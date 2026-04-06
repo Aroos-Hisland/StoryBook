@@ -8,30 +8,30 @@
   },
   {
     "id": "ta_story2",
-    "title": "2. நரியும் திராட்சைக் கொடியும்",
+    "title": "2. வெட்டுக்கிளியும் எறும்புகளும்",
     "isFree": true,
     "version": 1,
     "file": "stories/ta/ta_story2.enc"
   },
   {
     "id": "ta_story3",
-    "title": "3. ",
+    "title": "3. வானம்பாடியும் அதன் குஞ்சுகளும்",
     "isFree": false,
     "version": 1,
     "file": "stories/ta/ta_story3.enc"
   },
   {
     "id": "ta_story4",
-    "title": "3. test",
+    "title": "4. முயலும் ஆமையும்",
     "isFree": false,
     "version": 1,
-    "file": "stories/ta/ta_story2.enc"
+    "file": "stories/ta/ta_story4.enc"
   },
   {
     "id": "ta_story5",
-    "title": "5. test",
+    "title": "5. தவளைகளும் அவற்றின் அரசர்களும்",
     "isFree": false,
     "version": 1,
-    "file": "stories/ta/ta_story2.enc"
+    "file": "stories/ta/ta_story5.enc"
   }
 ]
