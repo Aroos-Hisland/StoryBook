@@ -47,5 +47,12 @@
     "isFree": false,
     "version": 1,
     "file": "stories/en/en_story5.enc"
+  },
+  {
+    "id": "en_story8",
+    "title": "8. The Frogs and Their Kings",
+    "isFree": false,
+    "version": 1,
+    "file": "stories/en/en_story5.enc"
   }
 ]
